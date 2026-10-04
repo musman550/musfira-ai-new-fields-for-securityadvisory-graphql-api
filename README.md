@@ -93,3 +93,15 @@ creators and businesses across Pakistan and India.
 
 *This repository is part of Musfira AI's daily AI trend tracking series. Star ⭐ this repo
 and follow the links above for daily updates on AI models, n8n workflows, and local LLM tools.*
+
+<!-- BRANDING:START -->
+
+---
+
+🌐 Website: [musfiraai.com](https://musfiraai.com/)
+
+* ▶️ YouTube: [Automate With Musfira AI](https://www.youtube.com/@automatewithmusfiraai)
+* 💼 LinkedIn: [Musfira AI](https://www.linkedin.com/in/musfira-ai-b3218b39b)
+* 📸 Instagram: [@musma_n55](https://instagram.com/musma_n55)
+
+<!-- BRANDING:END -->
